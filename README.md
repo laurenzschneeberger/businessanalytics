@@ -9,12 +9,14 @@ Data Handling & Processing
 2. `data_handling_extended.ipynb` - Extended data handling procedures for complex scenarios.
 3. `weather_data_pull.py` - Script to pull weather data from the OpenWeatherMap API.
 4. `weather_data_process.py` - Script for processing the raw weather data.
+
 Modelling
 6. `XGB_model.sav` - Pre-trained XGBoost model for demand prediction.
 7. `SARIMAX.ipynb` - Notebook detailing the SARIMAX modeling approach.
 8. `XGB.ipynb` - Notebook for XGBoost model implementation and evaluation.
 12. `benchmarking_prophet_uni.ipynb` - Benchmarking notebook for uni-variate Prophet models.
 10. `benchmarking_prophet_multi.ipynb` - Benchmarking notebook for multi-variate Prophet models.
+
 Frontend
 9. `webapp.py` - Python script for a Streamlit web application to display demand predictions.
 
