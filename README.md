@@ -5,8 +5,7 @@ This repository contains a web-app that can be used to support a real-world ener
 
 ## Contents
 Data Handling & Processing
-1. `data_handling_main.ipynb` - Primary notebook for initial data processing and handling.
-2. `data_handling_extended.ipynb` - Extended data handling procedures for complex scenarios.
+1. `data_handling.ipynb` - Primary notebook for initial data processing and handling.
 3. `weather_data_pull.py` - Script to pull weather data from the OpenWeatherMap API.
 4. `weather_data_process.py` - Script for processing the raw weather data.
 
