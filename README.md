@@ -8,6 +8,7 @@ Data Handling & Processing
 1. `data_handling.ipynb` - Primary notebook for initial data processing and handling.
 3. `weather_data_pull.py` - Script to pull weather data from the OpenWeatherMap API.
 4. `weather_data_process.py` - Script for processing the raw weather data.
+5. The `/data/` directory is used to store third party data, API-pulled data and processed data based on these primitives.
 
 Modelling
 1. `XGB_model.sav` - Pre-trained XGBoost model for demand prediction.
